@@ -1,20 +1,15 @@
 {
-  "name": "chat_app_frontend",
+  "name": "to-do-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlexYuhim/chat_app_frontend.git"
+    "start": "vite"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AlexYuhim/chat_app_frontend/issues"
-  },
-  "homepage": "https://github.com/AlexYuhim/chat_app_frontend#readme"
+  "devDependencies": {
+    "vite": "^2.8.6"
+  }
 }
